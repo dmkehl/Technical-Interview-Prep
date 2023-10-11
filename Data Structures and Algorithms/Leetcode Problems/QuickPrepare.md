@@ -1,0 +1,72 @@
+# Quick Prepare
+
+This list of ~70 problems is a great source for learning Data Structures & Algorithms initially to become interview ready. However, I recommend looking at <br>
+the [All Problems](./AllProblems.md) list in order to gain a deep understanding of each of the patterns in depth or to prepare on a specific pattern you are stuggling <br>
+with or know you will be seeing soon in an interview. This list is meant to be completed in order as a lot of the knowledge / insight from one problem type is likely <br>
+to be useful and / or vital to learning the next. If you are unfamiliar with a specific data type listed, please review the material [here](../Data%20Structures/DataStructures.md) in order to gain the <br>
+necessary knowledge to succeed at the problem.
+
+| Sequence | Problem                                                                                                                         | Problem Type                   | Data Type         | Difficulty | Solution                                                  |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ | ----------------- | ---------- | --------------------------------------------------------- |
+| 1        | [Reverse a String](https://leetcode.com/problems/reverse-string/)                                                               | Warm-up                        | Strings           | Easy       | [Solution](../LeetCode%20Solutions/344.reverse-string.js) |
+| 2        | [Palindrome Check](https://leetcode.com/problems/valid-palindrome/)                                                             | Warm-up                        | Strings           | Easy       |
+| 3        | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                               | Warm-up                        | Arrays, Hash Maps | Easy       |
+| 4        | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                             | Warm-up                        | Arrays            | Easy       |
+| 5        | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                       | Two Pointers                   | Arrays            | Easy       |
+| 6        | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                                           | Two Pointers                   | Arrays            | Medium     |
+| 7        | [Three Sum](https://leetcode.com/problems/3sum/)                                                                                | Two Pointers                   | Arrays            | Medium     |
+| 8        | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                                           | Two Pointers                   | Linked Lists      | Easy       |
+| 9        | [Merge Sorted Arrays](https://leetcode.com/problems/merge-sorted-array/)                                                        | Two Pointers                   | Arrays            | Easy       |
+| 10       | [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                     | Two Pointers                   | Linked Lists      | Easy       |
+| 11       | [Middle of a Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                             | Fast and Slow Pointers         | Linked Lists      | Easy       |
+| 12       | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)                                                     | Fast and Slow Pointers         | Linked Lists      | Medium     |
+| 13       | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)                                     | Fast and Slow Pointers         | Arrays            | Medium     |
+| 14       | [Maximum Subarray Sum](https://leetcode.com/problems/maximum-subarray/)                                                         | Sliding Window                 | Arrays            | Easy       |
+| 15       | [Smallest Subarray with a Given Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)                                  | Sliding Window                 | Arrays            | Medium     |
+| 16       | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Sliding Window                 | Strings           | Medium     |
+| 17       | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                               | Merge Intervals                | Arrays            | Medium     |
+| 18       | [Insert Interval](https://leetcode.com/problems/insert-interval/)                                                               | Merge Intervals                | Arrays            | Hard       |
+| 19       | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                                               | Top K Elements                 | Arrays, Hash Maps | Medium     |
+| 20       | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)                               | Top K Elements                 | Arrays, Heap      | Medium     |
+| 21       | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                     | Tree Depth-First Search        | Trees             | Easy       |
+| 22       | [Binary Tree Path Sum](https://leetcode.com/problems/path-sum/)                                                                 | Tree Depth-First Search        | Trees             | Easy       |
+| 23       | [Invert a Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                                       | Tree Depth-First Search        | Trees             | Easy       |
+| 24       | [Find the Diameter of a Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                                    | Tree Depth-First Search        | Trees             | Medium     |
+| 25       | [Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                                       | Tree Breadth-First Search      | Trees             | Easy       |
+| 26       | [Connect All Level Order Siblings](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)                  | Tree Breadth-First Search      | Trees             | Medium     |
+| 27       | [Find the Median of a Stream](https://leetcode.com/problems/find-median-from-data-stream/)                                      | Two Heaps                      | Arrays, Heaps     | Hard       |
+| 28       | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)                                                   | Two Heaps                      | Arrays, Heaps     | Hard       |
+| 29       | [Subsets](https://leetcode.com/problems/subsets/)                                                                               | Subsets                        | Arrays            | Medium     |
+| 30       | [Permutations](https://leetcode.com/problems/permutations/)                                                                     | Subsets                        | Arrays            | Medium     |
+| 31       | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)                                               | Subsets                        | Strings           | Medium     |
+| 32       | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                                                     | Subsets                        | Strings           | Medium     |
+| 33       | [Binary Search](https://leetcode.com/problems/binary-search/)                                                                   | Modified Binary Search         | Arrays            | Easy       |
+| 34       | [Search in a Sorted Array with No Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)                | Modified Binary Search         | Arrays            | Medium     |
+| 35       | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)                                 | Modified Binary Search         | Arrays            | Easy       |
+| 36       | [Course Schedule](https://leetcode.com/problems/course-schedule/)                                                               | Topological Sort               | Graphs            | Medium     |
+| 37       | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)                                                             | Topological Sort               | Graphs            | Hard       |
+| 38       | [Breadth-First Search](https://leetcode.com/problems/binary-tree-level-order-traversal/)                                        | Graph Breadth-First Search     | Trees             | Easy       |
+| 39       | [Minimum Spanning Tree](https://leetcode.com/problems/min-cost-to-connect-all-points/)                                          | Graph Breadth-First Search     | Graphs            | Medium     |
+| 40       | [Shortest Path](https://leetcode.com/problems/word-ladder/)                                                                     | Graph Breadth-First Search     | Graphs            | Medium     |
+| 41       | [Fibonacci Numbers](https://leetcode.com/problems/fibonacci-number/)                                                            | Dynamic Programming            | Arrays            | Easy       |
+| 42       | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)                                 | Dynamic Programming            | Arrays            | Medium     |
+| 43       | [0/1 Knapsack](https://leetcode.com/problems/partition-equal-subset-sum/)                                                       | Dynamic Programming            | Arrays            | Medium     |
+| 44       | [Unbounded Knapsack](https://leetcode.com/problems/coin-change-2/)                                                              | Dynamic Programming            | Arrays            | Medium     |
+| 45       | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)                                         | Dynamic Programming            | Strings           | Medium     |
+| 46       | [Edit Distance](https://leetcode.com/problems/edit-distance/)                                                                   | Dynamic Programming            | Strings           | Hard       |
+| 47       | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                                 | Dynamic Programming            | Strings           | Medium     |
+| 48       | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                                   | Dynamic Programming            | Strings           | Medium     |
+| 49       | [Longest Subarray with Ones](https://leetcode.com/problems/max-consecutive-ones-iii/)                                           | Dynamic Programming            | Arrays            | Medium     |
+| 50       | [Coin Change](https://leetcode.com/problems/coin-change/)                                                                       | Dynamic Programming            | Arrays            | Medium     |
+| 51       | [Maximum of All Subarrays of Size K](https://leetcode.com/problems/sliding-window-maximum/)                                     | Sliding Window with Deque      | Arrays            | Medium     |
+| 52       | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)                                             | Sliding Window with Deque      | Strings           | Hard       |
+| 53       | [Minimum Meeting Rooms](https://leetcode.com/problems/meeting-rooms-ii/)                                                        | Greedy Algorithms              | Arrays, Heaps     | Medium     |
+| 54       | [Maximum CPU Load](https://leetcode.com/problems/meeting-rooms-ii/)                                                             | Greedy Algorithms              | Intervals         | Hard       |
+| 55       | [Maximum Interval Overlap](https://leetcode.com/problems/meeting-rooms-ii/)                                                     | Greedy Algorithms              | Intervals         | Medium     |
+| 56       | [Triplet Sum Close to Target](https://leetcode.com/problems/3sum-closest/)                                                      | Two Pointers and Binary Search | Arrays            | Medium     |
+| 57       | [Triplet Sum to Zero](https://leetcode.com/problems/3sum/)                                                                      | Two Pointers and Binary Search | Arrays            | Medium     |
+| 58       | [Triplet Sum Close to Target](https://leetcode.com/problems/3sum-closest/)                                                      | Two Pointers and Binary Search | Arrays            | Medium     |
+| 59       | [Search in Rotated Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                        | Modified Binary Search         | Arrays            | Medium     |
+| 60       | [Search in Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)               | Modified Binary Search         | Arrays            | Medium     |
+| 61       | [Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)                          | Modified Binary Search         | Arrays            | Easy       |
+| 62       | [Ceiling of a Number](https://leetcode.com/problems/find-the-smallest-letter-greater-than-target/)                              | Modified Binary Search         | Arrays            | Medium     |
