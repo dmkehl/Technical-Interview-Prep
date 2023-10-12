@@ -17,6 +17,9 @@ files containing the desired information.
      - A list of problems meant to teach you all of the design patterns found in technical interviews in depth
    - [Quick Prepare](./Data%20Structures%20and%20Algorithms/Leetcode%20Problems/QuickPrepare.md)
      - A list of ~70 problems meant to jump start your preparation for technical interviews to get job ready
+   - [Patterns in Technical Interviews](./Data%20Structures%20and%20Algorithms/Patterns/PatternsTOC.md)
+     - Detailed explanations of each pattern covered within the two above items
+     - Best for learning a pattern before trying problems within the problem type
 2. **Behavioral Questions** (COMING SOON!)
    - Teamwork and Collaboration
    - Communication Skills
