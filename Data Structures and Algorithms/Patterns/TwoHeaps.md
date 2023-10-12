@@ -55,3 +55,7 @@ The Two Heaps Pattern follows a systematic process:
 ## Conclusion:
 
 The Two Heaps Pattern is a powerful technique for efficiently managing elements in problems where you need to find the median, track elements in a sliding window, or maintain balanced partitions. By using max and min heaps, it optimizes access to both the minimum and maximum elements and provides a valuable tool for a variety of problem-solving scenarios.
+
+## Want to learn more? Check out these videos created by others
+
+[![](https://img.youtube.com/vi/t0Cq6tVNRBA/0.jpg)](https://www.youtube.com/watch?v=t0Cq6tVNRBA) [![](https://img.youtube.com/vi/6JxvKfSV9Ns/0.jpg)](https://www.youtube.com/watch?v=6JxvKfSV9Ns)

@@ -57,3 +57,7 @@ The Dynamic Programming Pattern follows a systematic process:
 ## Conclusion:
 
 The Dynamic Programming Pattern is a powerful problem-solving technique that allows you to optimize solutions by breaking down complex problems into smaller, solvable subproblems. By using memoization or tabulation to store and reuse solutions, it provides an efficient way to tackle a wide range of optimization and combinatorial problems.
+
+## Want to learn more? Check out these videos created by others
+
+[![](https://img.youtube.com/vi/vYquumk4nWw/0.jpg)](https://www.youtube.com/watch?v=vYquumk4nWw) [![](https://img.youtube.com/vi/WbwP4w6TpCk/0.jpg)](https://www.youtube.com/watch?v=WbwP4w6TpCk)

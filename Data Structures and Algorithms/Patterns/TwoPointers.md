@@ -60,3 +60,7 @@ The methodology of the Two Pointers pattern can vary depending on the specific p
 ## Conclusion:
 
 The Two Pointers problem type is a powerful approach for solving a wide range of algorithm and data structure problems efficiently. It is characterized by its use of two pointers that move through the data structure, making it a valuable tool for searching, comparing, and manipulating elements.
+
+## Want to learn more? Check out these videos created by others
+
+[![](https://img.youtube.com/vi/On03HWe2tZM/0.jpg)](https://www.youtube.com/watch?v=On03HWe2tZM) [![](https://img.youtube.com/vi/ubSqGpj3o_s/0.jpg)](https://www.youtube.com/watch?v=ubSqGpj3o_s)

@@ -59,3 +59,7 @@ The Fast & Slow Pointers Pattern employs a variety of techniques to address spec
 ## Conclusion:
 
 The Fast & Slow Pointers Pattern is a valuable tool for solving algorithmic problems efficiently. It leverages the differential speeds of two pointers to achieve tasks like cycle detection, middle element identification, and value existence checks. It is commonly applied to linked list problems but can also be adapted to other data structures.
+
+## Want to learn more? Check out these videos created by others
+
+[![](https://img.youtube.com/vi/G_Lzrae4blg/0.jpg)](https://www.youtube.com/watch?v=G_Lzrae4blg) [![](https://img.youtube.com/vi/-gjxg6Pln50/0.jpg)](https://www.youtube.com/watch?v=-gjxg6Pln50)

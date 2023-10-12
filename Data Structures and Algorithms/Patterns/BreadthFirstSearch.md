@@ -58,6 +58,6 @@ The BFS Pattern follows a systematic process:
 
 The Breadth-First Search (BFS) Pattern is a versatile technique for exploring and traversing data structures like graphs and trees. Its level-by-level exploration behavior and queue-based implementation make it a valuable tool for a wide range of problems, from traversal to shortest path determination.
 
-## Want to learn more? Checkout these videos
+## Want to learn more? Check out these videos created by others
 
 [![](https://img.youtube.com/vi/oDqjPvD54Ss/0.jpg)](https://www.youtube.com/watch?v=oDqjPvD54Ss) [![](https://img.youtube.com/vi/xlVX7dXLS64/0.jpg)](https://www.youtube.com/watch?v=xlVX7dXLS64)

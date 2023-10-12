@@ -52,4 +52,6 @@ The Merge Intervals Pattern follows a systematic approach:
 
 ## Conclusion:
 
-The Merge Intervals Pattern is a valuable tool for efficiently handling problems involving intervals, overlaps, scheduling, and resource allocation. Sorting and merging intervals simplifies problems and optimizes solutions in various real-world scenarios.
+The Merge Intervals Pattern is a valuable tool for efficiently handling problems involving intervals, overlaps, scheduling, and resource allocation. Sorting and merging intervals simplifies problems and optimizes solutions in various real-world scenarios.## Want to learn more? Check out these videos created by others
+
+[![](https://img.youtube.com/vi/5rFZIPNH0Yw/0.jpg)](https://www.youtube.com/watch?v=5rFZIPNH0Yw) [![](https://img.youtube.com/vi/kID_lmQfCKw/0.jpg)](https://www.youtube.com/watch?v=kID_lmQfCKw) [![](https://img.youtube.com/vi/8Ky8B8CGZV0/0.jpg)](https://www.youtube.com/watch?v=8Ky8B8CGZV0)

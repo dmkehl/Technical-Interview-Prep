@@ -56,6 +56,6 @@ The Binary Search Pattern follows a systematic process:
 
 The Binary Search Pattern is a fundamental technique for efficiently searching and reducing the search space in ordered data structures. Its logarithmic time complexity makes it a valuable tool for a wide range of searching and boundary-detection problems, especially in scenarios with sorted data.
 
-## Want to learn more? Checkout these videos
+## Want to learn more? Check out these videos created by others
 
 [![](https://img.youtube.com/vi/P3YID7liBug/0.jpg)](https://www.youtube.com/watch?v=P3YID7liBug) [![](https://img.youtube.com/vi/6ysjqCUv3K4/0.jpg)](https://www.youtube.com/watch?v=6ysjqCUv3K4)

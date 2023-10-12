@@ -57,3 +57,7 @@ The Subsets Pattern follows a systematic process:
 ## Conclusion:
 
 The Subsets Pattern is a powerful technique for systematically exploring and generating all possible combinations or subsets of elements in a given set. By using recursion and a well-defined base case, it provides a valuable tool for solving problems related to combinations, permutations, and combinatorial possibilities.
+
+## Want to learn more? Check out these videos created by others
+
+[![](https://img.youtube.com/vi/_9Wvu-R04go/0.jpg)](https://www.youtube.com/watch?v=_9Wvu-R04go) [![](https://img.youtube.com/vi/1wsF9GpGd00/0.jpg)](https://www.youtube.com/watch?v=1wsF9GpGd00)

@@ -55,3 +55,7 @@ The Topological Sort Pattern follows a systematic process:
 ## Conclusion:
 
 The Topological Sort Pattern is a powerful technique for establishing a meaningful order for entities with dependencies. By using topological sorting algorithms, it offers a systematic approach to solving problems related to course scheduling, task management, and dependency resolution while adhering to directed acyclic graph characteristics.
+
+## Want to learn more? Check out these videos created by others
+
+[![](https://img.youtube.com/vi/Q9PIxaNGnig/0.jpg)](https://www.youtube.com/watch?v=Q9PIxaNGnig) [![](https://img.youtube.com/vi/eL-KzMXSXXI/0.jpg)](https://www.youtube.com/watch?v=eL-KzMXSXXI)

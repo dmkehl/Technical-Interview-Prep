@@ -53,3 +53,7 @@ The Modified Binary Search Pattern follows a systematic process:
 ## Conclusion:
 
 The Modified Binary Search Pattern is a flexible technique that applies binary search principles with variations to solve specific problems. It's a powerful tool for searching, identifying patterns, and addressing unique scenarios where a traditional binary search approach is insufficient.
+
+## Want to learn more? Check out these videos created by others
+
+[![](https://img.youtube.com/vi/nuN3-AkykfM/0.jpg)](https://www.youtube.com/watch?v=nuN3-AkykfM) [![](https://img.youtube.com/vi/1rtEtULACgs/0.jpg)](https://www.youtube.com/watch?v=1rtEtULACgs)

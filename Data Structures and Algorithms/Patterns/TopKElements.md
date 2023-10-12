@@ -57,3 +57,7 @@ The Top 'K' Elements Pattern follows a systematic process:
 ## Conclusion:
 
 The Top 'K' Elements Pattern is a powerful technique for efficiently selecting and managing the top 'K' largest or smallest elements from a dataset. By employing optimized data structures, it offers an effective solution for various problem-solving scenarios.
+
+## Want to learn more? Check out these videos created by others
+
+[![](https://img.youtube.com/vi/xjC8LNJByrw/0.jpg)](https://www.youtube.com/watch?v=xjC8LNJByrw) [![](https://img.youtube.com/vi/YPTqKIgVk-k/0.jpg)](https://www.youtube.com/watch?v=YPTqKIgVk-k)

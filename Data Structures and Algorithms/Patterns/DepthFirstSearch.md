@@ -59,3 +59,7 @@ The DFS Pattern follows a systematic process:
 ## Conclusion:
 
 The Depth-First Search (DFS) Pattern is a versatile technique for traversing and searching data structures like graphs and trees. Its depth-first exploration behavior, combined with recursive or stack-based implementations, makes it a valuable tool for a wide range of problems, from traversal to cycle detection.
+
+## Want to learn more? Check out these videos created by others
+
+[![](https://img.youtube.com/vi/Urx87-NMm6c/0.jpg)](https://www.youtube.com/watch?v=Urx87-NMm6c) [![](https://img.youtube.com/vi/PMMc4VsIacU/0.jpg)](https://www.youtube.com/watch?v=PMMc4VsIacU)

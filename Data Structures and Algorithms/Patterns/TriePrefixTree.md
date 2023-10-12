@@ -57,3 +57,7 @@ The Trie (Prefix Tree) Pattern follows a systematic process:
 ## Conclusion:
 
 The Trie (Prefix Tree) Pattern is a powerful data structure for efficiently storing, searching, and managing strings or sequences. By following a hierarchical structure and supporting prefix-based searches, it is a valuable tool for solving various problems related to words, dictionaries, auto-complete suggestions, and more.
+
+## Want to learn more? Check out these videos created by others
+
+[![](https://img.youtube.com/vi/-urNrIAQnNo/0.jpg)](https://www.youtube.com/watch?v=-urNrIAQnNo) [![](https://img.youtube.com/vi/3CbFFVHQrk4/0.jpg)](https://www.youtube.com/watch?v=3CbFFVHQrk4)

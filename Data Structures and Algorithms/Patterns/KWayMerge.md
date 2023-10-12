@@ -57,3 +57,7 @@ The K-Way Merge Pattern follows a systematic process:
 ## Conclusion:
 
 The K-Way Merge Pattern is a powerful technique for merging 'K' sorted collections into a single, sorted output. By using divide-and-conquer and a priority queue, it provides an efficient solution for various problem-solving scenarios, from sorting to database queries.
+
+## Want to learn more? Check out these videos created by others
+
+[![](https://img.youtube.com/vi/xS9Qix5RDA8/0.jpg)](https://www.youtube.com/watch?v=xS9Qix5RDA8) [![](https://img.youtube.com/vi/Xo54nlPHSpg/0.jpg)](https://www.youtube.com/watch?v=Xo54nlPHSpg)
