@@ -49,6 +49,13 @@ console.log("Index of 'World':", index);
 const words = str.split(", ");
 console.log("Split String:", words);
 
+// Replace characters in a string
+// - Description: Replaces all instances of a character in a string with another character.
+// - Time Complexity: O(n) where n is the length of the string.
+// - Space Complexity: O(n) where n is the length of the string.
+const removeAlphaNumeric = str.replace(/[^a-zA-Z0-9]/g, ""); // Removes all non-alphanumeric characters
+console.log("Remove Alphanumeric:", words);
+
 // Removing Whitespace
 // - Description: Removes leading and trailing whitespace from a string.
 // - Time Complexity: O(n) where n is the length of the string.
