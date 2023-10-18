@@ -18,6 +18,16 @@ function reverseStringGood(s) {
 /**
  * Better Solution:
  * Reverse a string using a two-pointer approach.
+ * Time Complexity: O(n)
+ * Space Complexity: O(n)
+ *
+ * Steps / Pseudocode:
+ * 1. If the input string is empty or null, return it as it is.
+ * 2. Convert the string into an array of characters.
+ * 3. Initialize two pointers, left and right to the start and end of the array respectively.
+ * 4. Swap characters from the left and right pointers until they meet in the middle.
+ * 5. Join the reversed array to form the reversed string.
+ * 6. Return the reversed string.
  *
  * @param {string} s - The input string.
  * @returns {string} - The reversed string.
@@ -44,6 +54,16 @@ function reverseStringBetter(s) {
 /**
  * Best Solution:
  * Reverse a string in-place.
+ * Time Complexity: O(n)
+ * Space Complexity: O(1)
+ *
+ * Steps / Pseudocode:
+ * 1. If the input string is empty or null, return it as it is.
+ * 2. Convert the string into an array of characters.
+ * 3. Initialize two pointers, left and right to the start and end of the array respectively.
+ * 4. Swap characters from the left and right pointers in-place until they meet in the middle.
+ * 5. Join the reversed array to form the reversed string.
+ * 6. Return the reversed string.
  *
  * @param {string} s - The input string.
  * @returns {string} - The reversed string.
