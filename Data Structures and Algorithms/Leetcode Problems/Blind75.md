@@ -1,5 +1,7 @@
 # Blind 75
 
+The term "Blind 75" typically refers to a curated list of 75 essential LeetCode coding interview questions that are often seen or can be encountered during technical interviews at major tech companies. These questions cover a wide range of topics and difficulty levels, making them a comprehensive resource for candidates preparing for technical interviews. The Blind 75 list is a popular guide for individuals aiming to strengthen their problem-solving skills and enhance their understanding of fundamental data structures and algorithms. Candidates often use this list as a benchmark to assess their preparation and ensure they are well-equipped for the challenges posed by technical interviews at top tech companies.
+
 | Problem                                                                                                                                                          | Pattern             | Data Type   | Difficulty |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ----------- | ---------- |
 | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                                                                | Two Pointers        | Array       | Easy       |
