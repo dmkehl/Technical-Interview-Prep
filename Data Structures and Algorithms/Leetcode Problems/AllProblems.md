@@ -61,6 +61,7 @@
 | [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                                                     |    Easy    | [Solution](./Solutions/167.two-sum-ii-input-array-is-sorted.js) |
 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)                                                                   |    Easy    |
 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                                                       |    Easy    |   [Solution](../LeetCode%20Solutions/125.valid-palindrome.js)   |
+| [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                                                                           |    Easy    |    [Solution](../LeetCode%20Solutions/392.is-subsequence.js)    |
 | [Reverse String](https://leetcode.com/problems/reverse-string/)                                                                                           |    Easy    |
 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)                                                                                 |    Easy    |
 | [Remove Element](https://leetcode.com/problems/remove-element/)                                                                                           |    Easy    |
