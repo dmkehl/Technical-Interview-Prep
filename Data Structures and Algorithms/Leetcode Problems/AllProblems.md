@@ -56,12 +56,13 @@
   - This pattern can be used to find pairs, subarrays, or specific elements efficiently.
   - Consider variations of the Two Pointers pattern, like "Pointers at Both Ends" or "Merging Two Arrays."
 
-| Problem                                                                                                                                                   | Difficulty |                            Solution                             |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :-------------------------------------------------------------: |
-| [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                                                     |    Easy    | [Solution](./Solutions/167.two-sum-ii-input-array-is-sorted.js) |
+| Problem                                                                                                                                                   | Difficulty |                              Solution                               |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :-----------------------------------------------------------------: |
+| [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                                                     |    Easy    |   [Solution](./Solutions/167.two-sum-ii-input-array-is-sorted.js)   |
 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)                                                                   |    Easy    |
-| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                                                       |    Easy    |   [Solution](../LeetCode%20Solutions/125.valid-palindrome.js)   |
-| [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                                                                           |    Easy    |    [Solution](../LeetCode%20Solutions/392.is-subsequence.js)    |
+| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                                                       |    Easy    |     [Solution](../LeetCode%20Solutions/125.valid-palindrome.js)     |
+| [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                                                                           |    Easy    |      [Solution](../LeetCode%20Solutions/392.is-subsequence.js)      |
+| [Squres of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                                                                      |    Easy    | [Solution](../LeetCode%20Solutions/977.squres-of-a-sorted-array.js) |
 | [Reverse String](https://leetcode.com/problems/reverse-string/)                                                                                           |    Easy    |
 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)                                                                                 |    Easy    |
 | [Remove Element](https://leetcode.com/problems/remove-element/)                                                                                           |    Easy    |
