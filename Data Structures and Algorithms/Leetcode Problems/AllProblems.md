@@ -56,13 +56,13 @@
   - This pattern can be used to find pairs, subarrays, or specific elements efficiently.
   - Consider variations of the Two Pointers pattern, like "Pointers at Both Ends" or "Merging Two Arrays."
 
-| Problem                                                                                                                                                   | Difficulty |                              Solution                               |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :-----------------------------------------------------------------: |
-| [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                                                     |    Easy    |   [Solution](./Solutions/167.two-sum-ii-input-array-is-sorted.js)   |
+| Problem                                                                                                                                                   | Difficulty |                                  Solution                                   |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :-------------------------------------------------------------------------: |
+| [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                                                     |    Easy    | [Solution](../LeetCode%20Solutions/167.two-sum-ii-input-array-is-sorted.js) |
 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)                                                                   |    Easy    |
-| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                                                       |    Easy    |     [Solution](../LeetCode%20Solutions/125.valid-palindrome.js)     |
-| [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                                                                           |    Easy    |      [Solution](../LeetCode%20Solutions/392.is-subsequence.js)      |
-| [Squres of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                                                                      |    Easy    | [Solution](../LeetCode%20Solutions/977.squres-of-a-sorted-array.js) |
+| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                                                       |    Easy    |         [Solution](../LeetCode%20Solutions/125.valid-palindrome.js)         |
+| [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                                                                           |    Easy    |          [Solution](../LeetCode%20Solutions/392.is-subsequence.js)          |
+| [Squres of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                                                                      |    Easy    |     [Solution](../LeetCode%20Solutions/977.squres-of-a-sorted-array.js)     |
 | [Reverse String](https://leetcode.com/problems/reverse-string/)                                                                                           |    Easy    |
 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)                                                                                 |    Easy    |
 | [Remove Element](https://leetcode.com/problems/remove-element/)                                                                                           |    Easy    |
@@ -175,6 +175,28 @@
 | --------------------------------------------------------------- | :--------: |
 | [Partition List](https://leetcode.com/problems/partition-list/) |   Medium   |
 | [Sort List](https://leetcode.com/problems/sort-list/)           |   Medium   |
+
+<a id="hash-map-pattern"></a>
+
+## Hash Map Pattern
+
+- **Methodology:** The hash map pattern, also known as the dictionary or map pattern in various programming languages, is widely used to solve many problems efficiently. It involves utilizing a data structure that stores key-value pairs, allowing for constant-time complexity for insertion, deletion, and lookup operations.
+
+- **Tips:**
+  - Understand the problem constraints and identify the need for efficient data storage and retrieval.
+  - Choose the appropriate programming language-specific implementation of the hash map, such as dictionaries, objects, or hash maps.
+  - Ensure that keys in the hash map are unique and that the chosen keys effectively represent the data you are trying to store.
+  - Utilize the hash map for constant-time insertion, deletion, and lookup operations.
+  - Be aware of potential collisions and consider implementing collision resolution strategies if necessary.
+  - Optimize space usage by considering the trade-offs between memory usage and time complexity.
+  - Leverage the hash map for tracking element frequencies, storing relationships, or mapping entities efficiently.
+  - Test the solution rigorously with different input sizes and edge cases to verify its correctness and efficiency.
+
+| Problem                                                             | Difficulty |                          Solution                           |
+| ------------------------------------------------------------------- | :--------: | :---------------------------------------------------------: |
+| [Most Common Word](https://leetcode.com/problems/most-common-word/) |    Easy    | [Solution](../LeetCode%20Solutions/819.most-common-word.js) |
+
+- **Methodology"**
 
 <a id="merge-intervals-pattern"></a>
 
