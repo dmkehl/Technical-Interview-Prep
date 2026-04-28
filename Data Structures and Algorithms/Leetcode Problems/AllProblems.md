@@ -1,14 +1,12 @@
 ## Table of Contents
 
 1. [**Two Pointers Pattern**](#two-pointer-pattern)
-
    - [Pointers at Both Ends](#pointers-at-both-ends)
    - [Slow & Fast Pointers](#slow-and-fast-pointers)
    - [Merging Two Arrays](#merging-two-arrays)
    - [Divide & Conquer](#divide-and-conquer)
 
 2. [**Fast & Slow Pointers Pattern**](#fast--slow-pointers-pattern)
-
    - [Linked List Cycle](#linked-list-cycle)
    - [Palindromic Linked List](#palindromic-linked-list)
    - [Cycle in a Circular Array](#cycle-in-a-circular-array)
@@ -56,13 +54,13 @@
   - This pattern can be used to find pairs, subarrays, or specific elements efficiently.
   - Consider variations of the Two Pointers pattern, like "Pointers at Both Ends" or "Merging Two Arrays."
 
-| Problem                                                                                                                                                   | Difficulty |                                  Solution                                   |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :-------------------------------------------------------------------------: |
-| [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                                                     |    Easy    | [Solution](../LeetCode%20Solutions/167.two-sum-ii-input-array-is-sorted.js) |
+| Problem                                                                                                                                                   | Difficulty |                                  Javascript Solution                                   | Python Solution |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :------------------------------------------------------------------------------------: | :-------------: |
+| blems/two-sum-ii-input-array-is-sorted/)                                                                                                                  |    Easy    | [Solution](../LeetCode%20Solutions/Javascript/167.two-sum-ii-input-array-is-sorted.js) |
 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)                                                                   |    Easy    |
-| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                                                       |    Easy    |         [Solution](../LeetCode%20Solutions/125.valid-palindrome.js)         |
-| [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                                                                           |    Easy    |          [Solution](../LeetCode%20Solutions/392.is-subsequence.js)          |
-| [Squres of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                                                                      |    Easy    |     [Solution](../LeetCode%20Solutions/977.squres-of-a-sorted-array.js)     |
+| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                                                       |    Easy    |         [Solution](../LeetCode%20Solutions/Javascript/125.valid-palindrome.js)         |
+| [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                                                                           |    Easy    |          [Solution](../LeetCode%20Solutions/Javascript/392.is-subsequence.js)          |
+| [Squres of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                                                                      |    Easy    |     [Solution](../LeetCode%20Solutions/Javascript/977.squres-of-a-sorted-array.js)     |
 | [Reverse String](https://leetcode.com/problems/reverse-string/)                                                                                           |    Easy    |
 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)                                                                                 |    Easy    |
 | [Remove Element](https://leetcode.com/problems/remove-element/)                                                                                           |    Easy    |
@@ -106,8 +104,8 @@
   - Identify problems where two pointers can be used to compare, find, or reach a solution.
   - Common applications include detecting cycles, finding middle elements, and determining if a value exists in a data structure.
 
-| Problem                                                                                                                                     | Difficulty |
-| ------------------------------------------------------------------------------------------------------------------------------------------- | :--------: |
+| Problem                                                                                                                                     | Difficulty | Javascript Solution | Python Solution |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :-----------------: | :-------------: |
 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                                                       |    Easy    |
 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                                                             |    Easy    |
 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)                                                           |    Easy    |
@@ -141,8 +139,8 @@
 
 ### Merging Two Arrays
 
-| Problem                                                                                                                                                 | Difficulty |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: |
+| Problem                                                                                                                                                 | Difficulty | Javascript Solution | Python Solution |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :-----------------: | :-------------: |
 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                                                                 |    Easy    |
 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/)                                 |    Easy    |
 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)                                                     |    Easy    |
@@ -171,8 +169,8 @@
 
 ### Divide & Conquer
 
-| Problem                                                         | Difficulty |
-| --------------------------------------------------------------- | :--------: |
+| Problem                                                         | Difficulty | Javascript Solution | Python Solution |
+| --------------------------------------------------------------- | :--------: | :-----------------: | :-------------: |
 | [Partition List](https://leetcode.com/problems/partition-list/) |   Medium   |
 | [Sort List](https://leetcode.com/problems/sort-list/)           |   Medium   |
 
@@ -192,11 +190,10 @@
   - Leverage the hash map for tracking element frequencies, storing relationships, or mapping entities efficiently.
   - Test the solution rigorously with different input sizes and edge cases to verify its correctness and efficiency.
 
-| Problem                                                             | Difficulty |                          Solution                           |
-| ------------------------------------------------------------------- | :--------: | :---------------------------------------------------------: |
-| [Most Common Word](https://leetcode.com/problems/most-common-word/) |    Easy    | [Solution](../LeetCode%20Solutions/819.most-common-word.js) |
-
-- **Methodology"**
+| Problem                                                             | Difficulty |                          Javascript Solution                           |                    Python Solution                    |
+| ------------------------------------------------------------------- | :--------: | :--------------------------------------------------------------------: | :---------------------------------------------------: |
+| [Most Common Word](https://leetcode.com/problems/most-common-word/) |    Easy    | [Solution](../LeetCode%20Solutions/Javascript/819.most-common-word.js) |
+| [Two Sum](https://leetcode.com/problems/two-sum/)                   |    Easy    |                                                                        | [Solution](../LeetCode%20Solutions/Python/two_sum.py) |
 
 <a id="merge-intervals-pattern"></a>
 
@@ -211,8 +208,8 @@
 
 [🔼 Back to top](#top)
 
-| Problem                                                                                   | Difficulty |
-| ----------------------------------------------------------------------------------------- | :--------: |
+| Problem                                                                                   | Difficulty | Javascript Solution | Python Solution |
+| ----------------------------------------------------------------------------------------- | :--------: | :-----------------: | :-------------: |
 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                         |   Medium   |
 | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) |   Medium   |
 | [Insert Interval](https://leetcode.com/problems/insert-interval/)                         |    Hard    |
@@ -230,8 +227,8 @@
 
 [🔼 Back to top](#top)
 
-| Problem                                                                                           | Difficulty |
-| ------------------------------------------------------------------------------------------------- | :--------: |
+| Problem                                                                                           | Difficulty | Javascript Solution | Python Solution |
+| ------------------------------------------------------------------------------------------------- | :--------: | :-----------------: | :-------------: |
 | [Find the Missing Number](https://leetcode.com/problems/missing-number/)                          |    Easy    |
 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)             |   Medium   |
 | [Cyclic Sort](https://leetcode.com/problems/find-all-duplicates-in-an-array/)                     |   Medium   |
@@ -251,8 +248,8 @@
 
 [🔼 Back to top](#top)
 
-| Problem                                                                                                                                           | Difficulty |
-| ------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: |
+| Problem                                                                                                                                           | Difficulty | Javascript Solution | Python Solution |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :-----------------: | :-------------: |
 | [Binary Search](https://leetcode.com/problems/binary-search/)                                                                                     |    Easy    |
 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                                   |    Easy    |
 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |   Medium   |
@@ -278,8 +275,8 @@
 
 [🔼 Back to top](#top)
 
-| Problem                                                                                           | Difficulty |
-| ------------------------------------------------------------------------------------------------- | :--------: |
+| Problem                                                                                           | Difficulty | Javascript Solution | Python Solution |
+| ------------------------------------------------------------------------------------------------- | :--------: | :-----------------: | :-------------: |
 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/)                               |    Easy    |
 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)                           |   Medium   |
 | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                             |   Medium   |
@@ -304,8 +301,8 @@
 
 [🔼 Back to top](#top)
 
-| Problem                                                                                               | Difficulty |
-| ----------------------------------------------------------------------------------------------------- | :--------: |
+| Problem                                                                                               | Difficulty | Javascript Solution | Python Solution |
+| ----------------------------------------------------------------------------------------------------- | :--------: | :-----------------: | :-------------: |
 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)           |    Easy    |
 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) |   Medium   |
 | [Course Schedule](https://leetcode.com/problems/course-schedule/)                                     |   Medium   |
@@ -331,8 +328,8 @@
 
 [🔼 Back to top](#top)
 
-| Problem                                                                                            | Difficulty |
-| -------------------------------------------------------------------------------------------------- | :--------: |
+| Problem                                                                                            | Difficulty | Javascript Solution | Python Solution |
+| -------------------------------------------------------------------------------------------------- | :--------: | :-----------------: | :-------------: |
 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)  |    Easy    |
 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)        |    Hard    |
 | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)                      |    Hard    |
@@ -351,8 +348,8 @@
 
 [🔼 Back to top](#top)
 
-| Problem                                                                                                       | Difficulty |
-| ------------------------------------------------------------------------------------------------------------- | :--------: |
+| Problem                                                                                                       | Difficulty | Javascript Solution | Python Solution |
+| ------------------------------------------------------------------------------------------------------------- | :--------: | :-----------------: | :-------------: |
 | [Subsets](https://leetcode.com/problems/subsets/)                                                             |   Medium   |
 | [Subsets II](https://leetcode.com/problems/subsets-ii/)                                                       |   Medium   |
 | [Permutations](https://leetcode.com/problems/permutations/)                                                   |   Medium   |
@@ -378,8 +375,8 @@
 
 [🔼 Back to top](#top)
 
-| Problem                                                                                                                                           | Difficulty |
-| ------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: |
+| Problem                                                                                                                                           | Difficulty | Javascript Solution | Python Solution |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :-----------------: | :-------------: |
 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                                   |    Easy    |
 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                                   |   Medium   |
 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)                                             |   Medium   |
@@ -402,8 +399,8 @@
 
 [🔼 Back to top](#top)
 
-| Problem                                                                                                            | Difficulty |
-| ------------------------------------------------------------------------------------------------------------------ | :--------: |
+| Problem                                                                                                            | Difficulty | Javascript Solution | Python Solution |
+| ------------------------------------------------------------------------------------------------------------------ | :--------: | :-----------------: | :-------------: |
 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)                  |    Easy    |
 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)  |   Medium   |
 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                                  |   Medium   |
@@ -427,8 +424,8 @@
 
 [🔼 Back to top](#top)
 
-| Problem                                                                                                                       | Difficulty |
-| ----------------------------------------------------------------------------------------------------------------------------- | :--------: |
+| Problem                                                                                                                       | Difficulty | Javascript Solution | Python Solution |
+| ----------------------------------------------------------------------------------------------------------------------------- | :--------: | :-----------------: | :-------------: |
 | [Merge Sorted Arrays](https://leetcode.com/problems/merge-sorted-array/)                                                      |    Easy    |
 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)             |   Medium   |
 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                             |   Medium   |
@@ -452,8 +449,8 @@
 
 [🔼 Back to top](#top)
 
-| Problem                                                                                                                 | Difficulty |
-| ----------------------------------------------------------------------------------------------------------------------- | :--------: |
+| Problem                                                                                                                 | Difficulty | Javascript Solution | Python Solution |
+| ----------------------------------------------------------------------------------------------------------------------- | :--------: | :-----------------: | :-------------: |
 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)                               |   Medium   |
 | [Add and Search Word - Data Structure Design](https://leetcode.com/problems/add-and-search-word-data-structure-design/) |   Medium   |
 | [Word Search](https://leetcode.com/problems/word-search/)                                                               |   Medium   |
@@ -477,8 +474,8 @@
 
 [🔼 Back to top](#top)
 
-| Problem                                                                                           | Difficulty |
-| ------------------------------------------------------------------------------------------------- | :--------: |
+| Problem                                                                                           | Difficulty | Javascript Solution | Python Solution |
+| ------------------------------------------------------------------------------------------------- | :--------: | :-----------------: | :-------------: |
 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                 |    Easy    |
 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                               |    Easy    |
 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                               |    Easy    |
@@ -512,8 +509,8 @@
 
 [🔼 Back to top](#top)
 
-| Problem                                                                                                                                                                                   | Difficulty |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: |
+| Problem                                                                                                                                                                                   | Difficulty | Javascript Solution | Python Solution |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :-----------------: | :-------------: |
 | [Course Schedule](https://leetcode.com/problems/course-schedule/)                                                                                                                         |   Medium   |
 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)                                                                                                                   |   Medium   |
 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)                                                                                                               |   Medium   |
