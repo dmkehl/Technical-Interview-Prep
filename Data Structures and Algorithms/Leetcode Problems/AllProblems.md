@@ -54,44 +54,43 @@
   - This pattern can be used to find pairs, subarrays, or specific elements efficiently.
   - Consider variations of the Two Pointers pattern, like "Pointers at Both Ends" or "Merging Two Arrays."
 
-| Problem                                                                                                                                                   | Difficulty |                                  Javascript Solution                                   | Python Solution |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :------------------------------------------------------------------------------------: | :-------------: |
-| blems/two-sum-ii-input-array-is-sorted/)                                                                                                                  |    Easy    | [Solution](../LeetCode%20Solutions/Javascript/167.two-sum-ii-input-array-is-sorted.js) |
-| [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)                                                                   |    Easy    |
-| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                                                       |    Easy    |         [Solution](../LeetCode%20Solutions/Javascript/125.valid-palindrome.js)         |
-| [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                                                                           |    Easy    |          [Solution](../LeetCode%20Solutions/Javascript/392.is-subsequence.js)          |
-| [Squres of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                                                                      |    Easy    |     [Solution](../LeetCode%20Solutions/Javascript/977.squres-of-a-sorted-array.js)     |
-| [Reverse String](https://leetcode.com/problems/reverse-string/)                                                                                           |    Easy    |
-| [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)                                                                                 |    Easy    |
-| [Remove Element](https://leetcode.com/problems/remove-element/)                                                                                           |    Easy    |
-| [DI String Match](https://leetcode.com/problems/di-string-match/)                                                                                         |    Easy    |
-| [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)               |    Easy    |
-| [Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/)                                                                         |    Easy    |
-| [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)                                                       |    Easy    |
-| [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                                                                     |    Easy    |
-| [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)                                                                               |    Easy    |
-| [Sort Colors](https://leetcode.com/problems/sort-colors/)                                                                                                 |   Medium   |
-| [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)                                                                                     |   Medium   |
-| [Sort Array by Parity](https://leetcode.com/problems/sort-array-by-parity/)                                                                               |   Medium   |
-| [Sort Array by Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)                                                                         |   Medium   |
-| [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)                                                                           |   Medium   |
-| [Reverse String II](https://leetcode.com/problems/reverse-string-ii/)                                                                                     |   Medium   |
-| [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)                                                                     |   Medium   |
-| [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)                                                             |   Medium   |
-| [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)                                                                         |   Medium   |
-| [Next Permutation](https://leetcode.com/problems/next-permutation/)                                                                                       |   Medium   |
-| [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)                                                                       |   Medium   |
-| [Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)                                                                                         |   Medium   |
-| [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)                                                                                             |   Medium   |
-| [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)                                                                             |   Medium   |
-| [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)                                                                               |   Medium   |
-| [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)                                                   |   Medium   |
-| [3Sum](https://leetcode.com/problems/3sum/)                                                                                                               |   Medium   |
-| [4Sum](https://leetcode.com/problems/4sum/)                                                                                                               |   Medium   |
-| [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) |   Medium   |
-| [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/)                                                                           |   Medium   |
-| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                                                                     |   Medium   |
-| [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                                                                                 |    Hard    |
+| Problem | Difficulty | Javascript Solution | Python Solution |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :------------------------------------------------------------------------------------: | :-------------: | | Easy | [Solution](../LeetCode%20Solutions/Javascript/167.two-sum-ii-input-array-is-sorted.js) |
+| [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | Easy |
+| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | [Solution](../LeetCode%20Solutions/Javascript/125.valid-palindrome.js) |
+| [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | [Solution](../LeetCode%20Solutions/Javascript/392.is-subsequence.js) |
+| [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | [Solution](../LeetCode%20Solutions/Javascript/977.squres-of-a-sorted-array.js) |
+| [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy |
+| [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | Easy |
+| [Remove Element](https://leetcode.com/problems/remove-element/) | Easy |
+| [DI String Match](https://leetcode.com/problems/di-string-match/) | Easy |
+| [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) | Easy |
+| [Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/) | Easy |
+| [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | Easy |
+| [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy |
+| [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | Easy |
+| [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium |
+| [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | Medium |
+| [Sort Array by Parity](https://leetcode.com/problems/sort-array-by-parity/) | Medium |
+| [Sort Array by Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | Medium |
+| [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | Medium |
+| [Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | Medium |
+| [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium |
+| [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Medium |
+| [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | Medium |
+| [Next Permutation](https://leetcode.com/problems/next-permutation/) | Medium |
+| [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | Medium |
+| [Pancake Sorting](https://leetcode.com/problems/pancake-sorting/) | Medium |
+| [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | Medium |
+| [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | Medium |
+| [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | Medium |
+| [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | Medium |
+| [3Sum](https://leetcode.com/problems/3sum/) | Medium |
+| [4Sum](https://leetcode.com/problems/4sum/) | Medium |
+| [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
+| [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/) | Medium |
+| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium |
+| [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard |
 
 <a id="slow-and-fast-pointers"></a>
 
@@ -466,10 +465,10 @@
 
 ## Dynamic Programming Pattern
 
-- **Methodology:** Dynamic programming is a problem-solving approach that involves breaking down complex problems into simpler subproblems and storing their solutions to avoid redundant calculations. It's widely used in optimization problems, sequences, and graphs.
+- **Methodology:** Dynamic programming is a problem-solving approach that involves breaking down complex problems into simpler sub-problems and storing their solutions to avoid redundant calculations. It's widely used in optimization problems, sequences, and graphs.
 
 - **Tips:**
-  - Identify subproblems and their relationships to optimize problem-solving.
+  - Identify sub-problems and their relationships to optimize problem-solving.
   - Implement memoization or bottom-up approaches to solve complex problems efficiently.
 
 [🔼 Back to top](#top)
